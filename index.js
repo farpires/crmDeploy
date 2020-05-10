@@ -14,8 +14,8 @@ const cors = require('cors');
 mongooose.Promise = global.Promise;
 mongooose.connect(process.env.DB_URL,{
     useUnifiedTopology: true,//nuevo analizador de cadena url
-    // useNewUrlParser: true,//nuevo detección y supervisión del servidor 
-    // useCreateIndex: true,
+    useNewUrlParser: true,//nuevo detección y supervisión del servidor 
+    useCreateIndex: true,
 });
 
 
