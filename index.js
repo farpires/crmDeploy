@@ -44,7 +44,13 @@ const corsOptions = {
         }
     }
 }
-
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '');//NOTA: cuando publiques la aplicacion o la pagina web a donde esta () colocamos la URL permitida o los origen permitidos
+    res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+    res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
+    next();
+});
 //Habilitar Cors.   //politica para traspasar datos 
 app.use(cors(corsOptions));
 
