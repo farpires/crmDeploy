@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5eb190b4d5f5462228a4b9df"},"email":"correo@correo.com","nombre":"fabio","password":"$2b$12$VgnNXl4mv4M2M2zHUUHOnez1DtYJgdJ3d.IilFZWfFhEJFEFBBpb6","__v":0}
+{"_id":{"$oid":"5eb1c1a5182fb136c0510228"},"email":"correo2@correo.com","nombre":"fabio","password":"$2b$12$RoGubM816L.lIa.aAnwG/uTyne27AsYJy.3LUpFCvITTw4O3ToMai","__v":0}

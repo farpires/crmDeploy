@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5ea8c97a4bb3da5d80e74b25"},"nombre":"Camisa React.js","precio":40,"imagen":"pvv5w9EDP.jpeg","__v":0}
+{"_id":{"$oid":"5eac798bfc79e02520495817"},"nombre":"Camisa VueJS","precio":25,"imagen":"DEsGpIYH-.jpeg","__v":0}
+{"_id":{"$oid":"5eac7a13fc79e02520495818"},"nombre":"github","precio":5666,"imagen":"YCdv-FCEg.jpeg","__v":0}
+{"_id":{"$oid":"5eac7a65fc79e02520495819"},"nombre":"angular","precio":500,"imagen":"TRA8RRehg.jpeg","__v":0}
+{"_id":{"$oid":"5eac7b3cfc79e0252049581a"},"nombre":"Drupai","precio":500,"imagen":"xCcO_n3bS.jpeg","__v":0}
+{"_id":{"$oid":"5eac7b66fc79e0252049581b"},"nombre":"Type Script","precio":5654,"imagen":"XpH-IUTEf.jpeg","__v":0}

@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5eacf569fe9fe52ee05b2297"},"cliente":{"$oid":"5eaaeeac531ceb18c0edd51b"},"pedido":[{"_id":{"$oid":"5ea8c97a4bb3da5d80e74b25"},"producto":{"$oid":"5ea8c97a4bb3da5d80e74b25"},"cantidad":1},{"_id":{"$oid":"5eac7a13fc79e02520495818"},"producto":{"$oid":"5eac7a13fc79e02520495818"},"cantidad":1}],"total":5706,"__v":0}
